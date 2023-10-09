@@ -1,4 +1,5 @@
-In this challenge, you need to use the tool "curl" to interact with a specific webpage, which is only accessible through your Azure Lab VM.
+You are provided with:
+- a URL for a dedicated webpage;
+- a private RSA SHA256 key which was generated with your token as a passphrase.
 
-The first time you interact, the webpage will tell you which message to hash using MD5. You need to interact with the page again, passing the MD5 hash as the GET parameter "hash". 
-
+Your goal is to interact with the dedicated page in order to get the flag. You will need to use SHA256 to sign. 
