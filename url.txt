@@ -1,1 +1,1 @@
-http://10.0.0.6/ctf_deploy/sign/uv6RB7wM/index.php
+http://10.0.0.6/ctf_deploy/pingme/CBY3DDlP/index.php
