@@ -1,1 +1,3 @@
-The flag has been encrypted in the file 'flag.enc' using some Java code. The flag is protected by CryptoUtilsDecrypt reference monitor, which will only decrypt the file if the correct password is provided. 
+ This practical aims at reproducing the demonstration done during the lecture on Buffer Overflow about executing a piece of dead code, by using a buffer overflow.
+
+You are strongly advised to practice first the attacks given in the lecture material (include those given at https://gitlab.com/morisset/bof) before attempting this practical. 
