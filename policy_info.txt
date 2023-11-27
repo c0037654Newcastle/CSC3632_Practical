@@ -1,7 +1,6 @@
+The address for the script which will return the flag
+is: http://10.0.0.6/ctf_deploy/accomplex/IdSwPNy1vx/flag.php
 
-If IYPS is True, then P evaluates to Permit;
-else if IYPS is Unknown, then P evaluates to Indeterminate(PD);
-else if both DYUX and KMZI are True, then P evaluates to Permit;
-otherwise P evaluates to Deny. 
+The address for the script which returns Permit when any of the agents send all their attributes and Deny otherwise is: http://10.0.0.6/ctf_deploy/accomplex/IdSwPNy1vx/test.php
 
-The address for the script is: http://10.0.0.6/ctf_deploy/aclivepolicy/r0D8XqEkIE/A.php
+
