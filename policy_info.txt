@@ -1,0 +1,16 @@
+The policy is:
+
+OSA: Permit if CXVW
+OSB: Deny if ZWZS
+OSC: Deny if IBYO
+OSD: FA(OSA,OSB)
+OSE: OOA(OSD,OSC)
+HSA: Deny if OR(LIIG,ABUT)
+HSB: Permit if RHNF
+HSD: Deny if YZSF
+HSC: DOV(HSA,HSB)
+HSE: DOV(HSC,HSD)
+P: POV(OSE,HSE)
+
+
+The address for the script is: http://10.0.0.6/ctf_deploy/aclive/qpnaUyJBr7/A.php
