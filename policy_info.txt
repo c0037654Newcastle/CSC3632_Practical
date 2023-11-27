@@ -1,16 +1,7 @@
-The policy is:
 
-OSA: Permit if CXVW
-OSB: Deny if ZWZS
-OSC: Deny if IBYO
-OSD: FA(OSA,OSB)
-OSE: OOA(OSD,OSC)
-HSA: Deny if OR(LIIG,ABUT)
-HSB: Permit if RHNF
-HSD: Deny if YZSF
-HSC: DOV(HSA,HSB)
-HSE: DOV(HSC,HSD)
-P: POV(OSE,HSE)
+If IYPS is True, then P evaluates to Permit;
+else if IYPS is Unknown, then P evaluates to Indeterminate(PD);
+else if both DYUX and KMZI are True, then P evaluates to Permit;
+otherwise P evaluates to Deny. 
 
-
-The address for the script is: http://10.0.0.6/ctf_deploy/aclive/qpnaUyJBr7/A.php
+The address for the script is: http://10.0.0.6/ctf_deploy/aclivepolicy/r0D8XqEkIE/A.php
